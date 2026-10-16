@@ -1,4 +1,4 @@
-# To-do List Dashboard 
+# To-do List Dashboard
 
 ## About My Project
  I built this web-based To-do_LIst as my B.Tech Full Stack Development assignment to dynamically analyze and display List of tasks. My goal was to create a clean, well manner visualization of Task list that can handle between it priority and status. 
